@@ -6,6 +6,8 @@ int add(int a, int b)
 
 int main()
 {
+
+    cout << "Greetings" << endl;
     cout << "Hello world!" << endl;
 
     return 0:
@@ -15,5 +17,4 @@ int main()
 int add(int a, int b)
 {
     return a + b;
-
 }
